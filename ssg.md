@@ -923,43 +923,43 @@ Do not change any gerund-based headings and titles until after you have converte
 
 **Procedure (task) topics**
 
-![Incorrect](images/no.png) Installing the OpenShift CLI
+**No:** Installing the OpenShift CLI
 
-![Correct](images/yes.png) Install the OpenShift CLI
+**Yes:** Install the OpenShift CLI
 
-![Incorrect](images/no.png) Using two-factor authentication
+**No:** Using two-factor authentication
 
-![Correct](images/yes.png) Secure your environment with two-factor authentication
+**Yes:** Secure your environment with two-factor authentication
 
 **Concept topics**
 
-![Incorrect](images/no.png) Understanding platform and application integration
+**No:** Understanding platform and application integration
 
-![Correct](images/yes.png) Platform and application integration
+**Yes:** Platform and application integration
 
-![Incorrect](images/no.png) About Operators installation
+**No:** About Operators installation
 
-![Correct](images/yes.png) What to expect when you install an Operator
+**Yes:** What to expect when you install an Operator
 
 **Reference topics**
 
-![Incorrect](images/no.png) Configuration parameters
+**No:** Configuration parameters
 
-![Correct](images/yes.png) Installation configuration parameters for AWS
+**Yes:** Installation configuration parameters for AWS
 
-![Incorrect](images/no.png) Reference design specifications
+**No:** Reference design specifications
 
-![Correct](images/yes.png) Reference design specifications for telco RAN DU 5G deployments
+**Yes:** Reference design specifications for telco RAN DU 5G deployments
 
 **Assemblies (parent topics)**
 
-![Incorrect](images/no.png) About private clusters
+**No:** About private clusters
 
-![Correct](images/yes.png) Private cluster architecture and features
+**Yes:** Private cluster architecture and features
 
-![Incorrect](images/no.png) Architecture
+**No:** Architecture
 
-![Correct](images/yes.png) Architecture of hosted control planes
+**Yes:** Architecture of hosted control planes
 
 #### User-replaced values
 
